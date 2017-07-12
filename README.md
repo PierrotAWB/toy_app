@@ -1,26 +1,7 @@
-# README
+#README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A "toy app" that employs Rail's scaffold generators for instant gratification!
 
-Things you may want to cover:
+The app consists of users and their microposts (modelled after Twitter), though much functionality is otherwise under-developed).
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-Toy app
-Toy app
+This is merely for demonstration of the power of Rails.
